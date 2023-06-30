@@ -1,0 +1,1 @@
+# class for configuring art style like color palette, patterns, etc
